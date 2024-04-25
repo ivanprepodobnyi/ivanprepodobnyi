@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi there! I'm Ivan, a passionate software engineer with expertise in React.js, Next.js, and Node.js. With a strong background in web development, I thrive on building scalable and efficient applications that deliver exceptional user experiences.
+I'm a passionate software engineer with expertise in React.js, Next.js, and Node.js. With a strong background in web development, I thrive on building scalable and efficient applications that deliver exceptional user experiences.
 
 🚀 As a React.js specialist, I excel in crafting dynamic and responsive user interfaces that captivate audiences and enhance user engagement. Leveraging the power of Next.js, I ensure seamless server-side rendering and optimization for search engines, delivering lightning-fast web experiences.
 
