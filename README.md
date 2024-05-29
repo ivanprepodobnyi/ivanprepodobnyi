@@ -1,24 +1,38 @@
-### Hi there 👋
+## Hi there 👋
 
-A passionate software engineer with expertise in React.js, Next.js, and Node.js. With a strong background in web development, I thrive on building scalable and efficient applications that deliver exceptional user experiences.
+Hi there! I'm Ivan, a passionate Jamstack developer with expertise in developing Jamstack eCommerce and CMS using Next.js, Shopify, and Strapi.
 
-🚀 As a React.js specialist, I excel in crafting dynamic and responsive user interfaces that captivate audiences and enhance user engagement. Leveraging the power of Next.js, I ensure seamless server-side rendering and optimization for search engines, delivering lightning-fast web experiences.
+### 🚀 My Expertise:
 
-  - JavaScript, TypeScript
-  - React.js, Redux, Zustand, TanStack, React Hook Form, Vite, Axios
-  - Next.js, Page and App Router, Server Side Rendering
-  - HTML5, CSS3, SCSS
-  - Tailwind CSS, Shadcn, Bootstrap, MUI
-  -  Android & iOS development using React Native
- 
-💼 On the backend, my proficiency in Node.js enables me to architect scalable and efficient APIs, handling complex business logic and data processing with ease. Whether it's building RESTful APIs or implementing real-time communication with WebSockets, I'm well-equipped to tackle any backend challenge.
+✔ Front-end Development: Next.js, React.js, JavaScript, TypeScript, Redux, Mobx, Tailwind CSS, MUI, Bootstrap, RESTful API, GraphQL.
+✔ Mobile Development: React Native
+✔ eCommerce Solutions: Shopify, Shopify APP, Shopify StoreFront API
+✔ Headless CMS: Strapi
+✔ Backend Development: Node.js, Express.js, Supabase, PostgreSQL, MongoDB, MySQL, Drizzle, Mongoose,NGINX, SSL, Docker
 
-  -  Node.js, Express.js
-  -  Supabase, Strapi, Firebase
-  -  PostgreSQL, MongoDB, MySQL
+### 🌟 Why Choose Me?
 
-⭐️ What sets me apart is my dedication to understanding the unique needs of each client and delivering tailored solutions that exceed expectations. From concept to deployment, I prioritize clear communication, meticulous planning, and agile development methodologies to ensure project success.
+- Full-Stack Expertise: 
+From crafting engaging front-end interfaces to building robust backend solutions, my comprehensive skill set covers all aspects of web development.
 
-🌟 Whether you're a startup looking to launch a new product, a small business in need of a website revamp, or an enterprise seeking custom web applications, I'm here to turn your vision into reality. 
+- eCommerce Specialist:
+My in-depth knowledge of Shopify, including app development and StoreFront API integration, allows me to create seamless and customized online shopping experiences.
 
-Let's collaborate and bring your ideas to life!
+- Headless CMS Proficiency:
+Utilizing Strapi, I design and implement flexible and powerful content management systems that meet the specific needs of any project.
+
+- Efficiency and Scalability:
+I focus on building applications that are not only efficient but also scalable, ensuring they can grow alongside your business needs.
+
+- User Experience Focused:
+Delivering exceptional user experiences is at the core of my development philosophy. I ensure that every application I build is intuitive and engaging.
+
+- Strong Communication:
+Effective communication and collaboration are key to successful projects. I ensure transparent and consistent communication throughout the project lifecycle.
+
+- Continuous Learning:
+I am committed to staying updated with the latest technologies and industry trends to deliver cutting-edge solutions.
+
+Ready to bring your project to life? Let's connect and discuss how I can help you achieve your goals with innovative and reliable Jamstack solutions.
+
+Thanks for considering my profile!
