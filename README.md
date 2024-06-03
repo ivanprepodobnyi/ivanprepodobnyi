@@ -5,9 +5,13 @@ Hi there! I'm Ivan, a passionate Jamstack developer with expertise in developing
 ### 🚀 My Expertise:
 
 ✔ Front-end Development: Next.js, React.js, JavaScript, TypeScript, Redux, Mobx, Tailwind CSS, MUI, Bootstrap, RESTful API, GraphQL.
+
 ✔ Mobile Development: React Native
+
 ✔ eCommerce Solutions: Shopify, Shopify APP, Shopify StoreFront API
+
 ✔ Headless CMS: Strapi
+
 ✔ Backend Development: Node.js, Express.js, Supabase, PostgreSQL, MongoDB, MySQL, Drizzle, Mongoose,NGINX, SSL, Docker
 
 ### 🌟 Why Choose Me?
